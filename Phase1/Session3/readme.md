@@ -1,4 +1,4 @@
-# Team members
+# Group members
 Gaurav Pandey  
 Abhijit  
 Bikash  
